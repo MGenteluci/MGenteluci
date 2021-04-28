@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/MGenteluci/MGenteluci/master/image/developer.jpeg" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/MGenteluci/MGenteluci/master/images/developer.jpeg" width="350"/>
 
 <br/>
 
