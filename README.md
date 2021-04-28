@@ -7,5 +7,5 @@
 
 My name is Matheus. I’m a software developer with a passion for back-end and software architecture.
 
-- :office: I'm currently working at [Ame Digital](https://www.amedigital.com/)
-- :computer: FullStack Developer
+- :office: &nbsp;I'm currently working at [Ame Digital](https://www.amedigital.com/)
+- :computer: &nbsp;FullStack Developer
