@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-My name is Matheus. I’m a software developer with a passion for back-end and software architecture.
+My name is Matheus. I’m a software developer with the main goal of delivering value for people through technology.
 
 - :office: &nbsp;I'm currently working at [Ame Digital](https://www.amedigital.com/)
 - :computer: &nbsp;FullStack Developer
